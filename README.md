@@ -1,41 +1,28 @@
-# Unit 14 Sequelize Homework: Reverse Engineering Code
+# Sequelize: Reverse Engineering Code
 
-Reverse engineer the starter code provided and create a tutorial for the code.
+The assignment will demonstrate the reverse engineer of the the starter code for a Sign Up Form Application which is provided under the Develop Folder.
 
-In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
+The code was inspected and an explanation in the format of a Google Document breaks down each file's responsibility and dependencies if there are any.
 
-At the end of the tutorial, add instructions for how you could now add changes to this project.
+![](images/SignUpForm.jpeg)
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
+## Technology
+Node.js
 
-```
-AS A developer
+Npm Packages: 
+ - express
+ - express-session
+ - mysql2
+ - passport
+ - passport-local
+ - sequalize
 
-I WANT a walk-through of the codebase
+## User Story
+As a developer
 
-SO THAT I can use it as a starting point for a new project
-```
+I want a walk-through of the codebase
 
-## Business Context
+So that I can use it as a starting point for a new project.
 
-When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
-
-## Acceptance Criteria
-
-```md
-GIVEN a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase
-```
-- - -
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* A link to a Google Doc or video explaining the application in `Develop/`. 
-
-_Note: Don't forget to change the sharing settings on your Google Doc._
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Links
+https://docs.google.com/document/d/1G-CxSzXLthX6pixhaNgJ8KBI1yrMbEDtD8PNrMHtWPI/edit?usp=sharing
