@@ -4,7 +4,7 @@ The assignment will demonstrate the reverse engineer of the the starter code for
 
 The code was inspected and an explanation in the format of a Google Document breaks down each file's responsibility and dependencies if there are any.
 
-![](images/SignUpForm.jpeg)
+![](images/SignUpForm.jpg)
 
 ## Technology
 Node.js
